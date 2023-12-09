@@ -1,3 +1,4 @@
+file_path = "d1-input.txt"
 
 with open ("input.txt") as f:
     s = f.read()
